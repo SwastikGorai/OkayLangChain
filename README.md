@@ -5,7 +5,7 @@ This project uses LangChain, OpenAI API, and Pinecone vector database to extract
 
 ## Installation:
 * Create a virtual environment using `python -m venv <name-of-your-env>`
-* Activate the environment using `./<virtual-env-name>/scripts/activate
+* Activate the environment using `./<virtual-env-name>/scripts/activate`
 * Clone this repository
 * Install dependencies using `pip install -r requirements.txt`
 * Fill out creds in `apiKeys` file
