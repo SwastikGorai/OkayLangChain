@@ -1,2 +1,4 @@
 proj
 .vscode
+__pycache__/
+*.idea
